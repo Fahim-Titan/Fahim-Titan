@@ -10,8 +10,9 @@ I'm passionate about staying up-to-date with the latest trends and best practice
 
 Thanks for stopping by my profile, and feel free to reach out if you have any questions or just want to chat!
 
-*   🌍  I'm based in Alberta, Canada
+*   🌍  I'm based in Vancouver, Canada
 *   ✉️  You can contact me at [alfahim027@gmail.com](mailto:alfahim027@gmail.com)
+*   🧠  I am on the path to learn Data Science
 *   🧠  I'm learning Kubernetes
 *   🤝  I'm open to collaborating on web based projects
 *   ⚡  I love travelling and reading books
