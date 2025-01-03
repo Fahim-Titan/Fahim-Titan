@@ -1,7 +1,7 @@
 Hi 👋 My name is AL FAHIM
 =========================
 
-Full stack NodeJS, .NET developer
+Full stack .NET NodeJS developer
 ---------------------------------
 
 👋 Hi there! I'm a software developer with several years of experience in the field. I started developing back in 2016, working primarily with .NET technologies. Since then, I've transitioned to working with NodeJS and have gained experience in a variety of related technologies, including React Native, React, NextJS, ExpressJS, NestJS, and Electron. 
@@ -20,6 +20,35 @@ Thanks for stopping by my profile, and feel free to reach out if you have any qu
    
 ### Skills
 --------------------------------
+<table>
+   <tbody>
+      <tr>
+         <td>Language</td>
+         <td>C#, Python, JS, TS, PHP, C, CSS, Less, SQL</td>
+      </tr>
+      <tr>
+         <td>Frameworks</td>
+         <td>.NET MVC, NodeJS, NextJS, NestJS, React, JQuery, Redux, ExpressJS, Svelte, ChakraUI</td>
+      </tr>
+      <tr>
+         <td>Database</td>
+         <td>MSSQL, MongoDB, MariaDB, Postgres, MySQL, Amazon RDS</td>
+      </tr>
+      <tr>
+         <td>Version Control</td>
+         <td>Gitlab, Github, Bitbucket</td>
+      </tr>
+      <tr>
+         <td>IDE</td>
+         <td>VS Code, Visual Studio, IntelliJ IDEA</td>
+      </tr>
+      <tr>
+         <td>Microservice</td>
+         <td>Docker, Podman, Kubernetes</td>
+      </tr>
+   </tbody>
+</table>
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
